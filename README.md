@@ -1,6 +1,7 @@
 ## Beautiful Drawer Navigation
 
 To run the project you have to clone the repository locally.
+
 **Note:** The project will not run on the web, due to the @react-native-community/masked-view being not supported by expo no the web.
 
 Then run the 
